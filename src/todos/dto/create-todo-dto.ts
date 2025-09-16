@@ -24,7 +24,7 @@ export class CreateTodoDto {
     description: 'Statut du todo (terminé ou non)',
     default: false,
   })
-  @Type(() => Number)
+  @Type(() => Boolean)
   @IsOptional()
   @IsBoolean()
   completed?: boolean;

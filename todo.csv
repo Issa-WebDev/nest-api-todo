@@ -1,0 +1,11 @@
+todo_id,title,description,completed,createdAt
+a1b2c3d4-e5f6-7890-1234-567890abcdef,Apprendre Angular,Apprendre les bases d'Angular et les bonnes pratiques,false,2025-09-16T16:55:58Z
+b1c2d3e4-f5a6-7890-1234-567890abcdef,Créer une API avec NestJS,Mettre en place un CRUD pour une application de blog,false,2025-09-15T15:30:00Z
+c1d2e3f4-g5h6-7890-1234-567890abcdef,Faire du sport,Aller à la salle de sport 3 fois par semaine,true,2025-09-14T08:00:00Z
+d1e2f3g4-h5i6-7890-1234-567890abcdef,Acheter des courses,Faire la liste de courses et aller au supermarché,false,2025-09-13T18:45:00Z
+e1f2g3h4-i5j6-7890-1234-567890abcdef,Lire un livre,Lire "Clean Code" de Robert C. Martin,true,2025-09-12T12:00:00Z
+f1g2h3i4-j5k6-7890-1234-567890abcdef,Mettre à jour mon CV,Ajouter mes nouvelles compétences en Angular et NestJS,false,2025-09-11T09:15:00Z
+g1h2i3j4-k5l6-7890-1234-567890abcdef,Préparer un repas sain,Cuisiner un plat équilibré pour la semaine,true,2025-09-10T14:20:00Z
+h1i2j3k4-l5m6-7890-1234-567890abcdef,Appeler le client,Discuter de l'avancement du projet A,false,2025-09-09T11:50:00Z
+i1j2k3l4-m5n6-7890-1234-567890abcdef,Faire le ménage,Nettoyer la cuisine et le salon,true,2025-09-08T16:00:00Z
+j1k2l3m4-n5o6-7890-1234-567890abcdef,Planifier les vacances,Rechercher des destinations pour l'été prochain,false,2025-09-07T20:30:00Z
